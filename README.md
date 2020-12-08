@@ -1,7 +1,7 @@
 # bitluniHomeAutomation
 WeMos ESP8266 Arduino sketch to control pins and WS2812 led strips.
 
-This is the sketch to the corresponding tutorial video:
+Ini adalah sketsa dari video tutorial terkait:
 https://www.youtube.com/watch?v=7Dv70ci-MOw
 
 TODOs:
@@ -12,5 +12,4 @@ TODOs:
 - when one specific pin is high on startup, provide AP to access configuration page
 - add authentication
 
-Find more projects:
-https://youtube.com/bitlunislab
+![](anime.chill.gif)
