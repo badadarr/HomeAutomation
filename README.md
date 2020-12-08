@@ -12,4 +12,4 @@ TODOs:
 - when one specific pin is high on startup, provide AP to access configuration page
 - add authentication
 
-![](anime.chill.gif)
+file:///Volumes/Untitled%20-%20Data/anime.chill.gif
