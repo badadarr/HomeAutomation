@@ -12,5 +12,3 @@ TODOs:
 - provide configuration page
 - when one specific pin is high on startup, provide AP to access configuration page
 - add authentication
-
-![Alt Text](https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif)
